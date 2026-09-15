@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MariaFerrari0/MariaFerrari0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=220&section=header&text=MARIA%20FERRARI&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=ANÁLISE%20E%20DESENVOLVIMENTO%20DE%20SISTEMAS&descAlignY=58&descSize=18"/>
 
-Here are some ideas to get you started:
+# 👩🏻‍💻 Maria Ferrari
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💜 Desenvolvedora em formação | ADS | Tecnologia
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-7F3FBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaFerrari0)
+
+</div>
+
+---
+
+## ✨ Sobre mim
+
+Olá! Eu sou **Maria Ferrari** 👩🏻‍💻
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🐍 Atualmente estudando **Python**  
+🐘 Desenvolvendo conhecimentos em **PHP**  
+🌐 Explorando o framework **Django**  
+💻 Interessada em desenvolvimento de software e tecnologia  
+🚀 Sempre buscando aprender, criar projetos e evoluir minhas habilidades.
+
+---
+
+## 💜 Minha jornada na tecnologia
+
+```text
+🎓 Análise e Desenvolvimento de Sistemas
+          │
+          ▼
+     💻 Programação
+          │
+     ┌────┼────┐
+     ▼    ▼    ▼
+   Python PHP Django
+     │    │    │
+     └────┼────┘
+          ▼
+     🚀 Projetos
+          │
+          ▼
+    📚 Aprendizado
+          │
+          ▼
+     👩🏻‍💻 Evolução
