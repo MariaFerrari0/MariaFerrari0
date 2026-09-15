@@ -77,23 +77,3 @@ Atualmente venho desenvolvendo meus conhecimentos em diferentes tecnologias, exp
 
 </div>
 
----
-
-# 📚 Atualmente estudando
-
-```text
-╔══════════════════════════════════════════════╗
-║              MARIA FERRARI                  ║
-║             LEARNING SYSTEM                 ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  🐍 Python              ████████████░░       ║
-║  🎯 Django              ██████████░░░       ║
-║  ⚡ JavaScript          █████████░░░░       ║
-║  🐘 PHP                 ████████░░░░░       ║
-║  💜 C#                  ████████░░░░░       ║
-║  🌐 ASP.NET             ███████░░░░░░       ║
-║  🎨 CSS                 ██████████░░░       ║
-║  🌐 HTML                ████████████░       ║
-║                                              ║
-╚══════════════════════════════════════════════╝
