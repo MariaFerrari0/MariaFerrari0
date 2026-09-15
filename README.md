@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=MariaFerrari0&label=VISITAS%20NO%20PERFIL&color=7F3FBF&style=for-the-badge"/>
+
 
 </div>
 
